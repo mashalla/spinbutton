@@ -1,0 +1,11 @@
+name: Accessible Slider
+author: mashalla
+category: Widgets
+tags: [slider, data, drag, drop, knob, element]
+#docs: http://www.accessiblemootoolsdemo.iao.fraunhofer.de/Mootools_Widgets/index.html
+demo: http://www.accessiblemootoolsdemo.iao.fraunhofer.de/Mootools_Widgets/index.html
+current: 1.0
+
+sources:
+  - "Source/spinbutton.js"
+  - "Source/demo.js"
