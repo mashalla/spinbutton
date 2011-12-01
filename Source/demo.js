@@ -13,6 +13,8 @@ authors:
 requires:
  - Core/1.2.4: *
  
+provides: []
+ 
 ...
 */
 window.addEvent('domready', function(){
