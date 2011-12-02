@@ -79,7 +79,7 @@ div.sa_demo_headerScreen {
 /* end common settings 314 */
 .MooAccessSpinButtonContainer {
     border: 1px solid #aaaaaa;
-    background-image: url(../../img/verlauf.png);
+    background-image: url(img/verlauf.png);
     background-position: center;
     width: 200px;
     padding-left: 3px;
@@ -90,7 +90,7 @@ div.sa_demo_headerScreen {
 }
 
 .MooAccessSpinButtonInput {
-    background-image: url(../../img/verlauf.png);
+    background-image: url(img/verlauf.png);
     background-position: center;
     width: 175px;
     border: none;
@@ -104,7 +104,7 @@ div.sa_demo_headerScreen {
 	cursor:pointer;
     border: 1px solid #aaaaaa;
     background-color: #efefef;
-    background-image: url(../../img/spinnDownArrow.png);
+    background-image: url(img/spinnDownArrow.png);
     background-repeat: no-repeat;
     background-position: center;
     width: 20px;
@@ -125,7 +125,7 @@ div.sa_demo_headerScreen {
 	cursor:pointer;
     border: 1px solid #aaaaaa;
     background-color: #efefef;
-    background-image: url(../../img/spinnUpArrow.png);
+    background-image: url(img/spinnUpArrow.png);
     background-repeat: no-repeat;
     background-position: center;
     width: 20px;
