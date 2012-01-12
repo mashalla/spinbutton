@@ -1,7 +1,7 @@
 name: Accessible Spinbutton
 author: mashalla
 category: Widgets
-tags: [slider, data, drag, drop, knob, element]
+tags: [input, spinbutton, button]
 #docs: http://www.accessiblemootoolsdemo.iao.fraunhofer.de/Mootools_Widgets/index.html
 demo: http://www.accessiblemootoolsdemo.iao.fraunhofer.de/Mootools_Widgets/index.html
 current: 1.0
