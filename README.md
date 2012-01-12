@@ -7,4 +7,17 @@ This class provides an accessible spinbutton.
 How to use
 ----------
 
-//ToDo
+	#HTML
+	<input id="spinbutton" type="text" value="100"/>
+	
+	#JS
+	window.addEvent('domready', function(){
+	    var spinbutton = new Spinbutton({
+			'start':10,
+			'min':0,
+			'max':1000,
+			'stepsize':1,
+			'incrementalStep':10,
+			'spinbutton':$('spinbutton')
+		});
+	});
