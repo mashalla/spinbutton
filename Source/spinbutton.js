@@ -88,7 +88,8 @@ var Spinbutton = new Class({
     setValue: function(){
         this.options.spinbutton.setProperties({
             'value': this.currentValue,
-            'aria-valuenow': this.currentValue
+            'aria-valuenow': this.currentValue,
+            'aria-live': 'polite'
         });
     },
     initEvents: function(){
